@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RSet" value="name:ultima_fecha;datatype:smalldatetime" />
+	<infoitem key="UD_Recordset1" value="name:fec_acthis;datatype:D,name:num_transa;datatype:C,name:num_asient;datatype:C,name:fec_posteo;datatype:D,name:sig_moneda;datatype:C,name:cue_subcue;datatype:C,name:tip_contra;datatype:C,name:cod_contra;datatype:C,name:des_cuenta;datatype:C,name:cod_asient;datatype:C,name:fec_contab;datatype:D,name:imp_asient;datatype:F,name:fec_valor;datatype:D,name:ref_corrie;datatype:C,name:cod_operad;datatype:C,name:cod_superv;datatype:C,name:fec_vencto;datatype:D,name:con_balpag;datatype:C,name:tip_asidia;datatype:C,name:ref_origin;datatype:C,name:ref_extern;datatype:C,name:ide_cue32;datatype:C,name:ext_automa;datatype:L,name:cod_transa;datatype:C,name:cod_comisi;datatype:C,name:sig_mondcc;datatype:C,name:des_cuedcc;datatype:C,name:observ;datatype:,name:num_asieor;datatype:C,name:num_tranor;datatype:C,name:hor_accion;datatype:C,name:crc;datatype:C" />
+</info>
