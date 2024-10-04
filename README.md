@@ -1,2 +1,5 @@
-# My-C-Sharp-SQL-Server-Projects
-This is a project developed in ASP.NET with C# and SQL Server 2005. The system was a proposal for managing the access to a self-service, online banking system via a barcode reader installed on the branches.
+# ASPProjectSample_OnlineBankingAccessSystem
+This is a project developed around 2008 in ASP with C# and SQL Server 2005. The system was a proposal for managing the access to a self-service, online banking system via a barcode reader installed on the branches.
+It was actually kind of an add on for another project already implemented in the bank. That was an interface for accessing certain services remotely. We proposed this improvement for implementing it as well as a self-service option available on each branch. That way customers could skip long lines and waiting times for minor operations. 
+The importance of this project lies on the fact that it was aimed for a state-owned bank in Cuba. At that moment in time, accessing Internet and mobile services was practicaly null in Cuba. Besides for those who had, it was heavily regulated and considered a very expensive luxury only available on certain companies or universities.
+As a result, this project turned to be a local and affordable solution for those who did not had mobile phones plus easing the operations at the branches. 
